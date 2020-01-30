@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"C:\Users\sn1017167\Desktop\MikroC\Contador\Contador.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\sn1017167\Desktop\MikroC\Contador\" -SP"C:\Users\sn1017167\Public\Documents\Mikroelektronika\mikroC PRO for PIC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\sn1017167\Desktop\MikroC\Contador\" "Contador.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_C.mcl" "__Lib_PWM_c21.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\sn1017167\Public\Documents\Mikroelektronika\mikroC PRO for PIC'	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Contador.c
+hint: 43	1163	Variable 'flagTela' has been declared, but not used	Contador.c
+diagnostics: 88	123	Compiled Successfully	Contador.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)
+hint: 0	1144	Used ROM (program words): 79 (1%)  Free ROM (program words): 8113 (99%)	Used ROM (program words): 79 (1%)  Free ROM (program words): 8113 (99%)
+diagnostics: 0	125	Project Linked Successfully	Contador.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Contador.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 30 jan 2020, 16:01:39	Contador.mcppi
